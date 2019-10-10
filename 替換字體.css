@@ -1,0 +1,22 @@
+/*襯線*/
+@font-face { font-family: '新细明体'; src: local(Noto Serif CJK TC); }
+@font-face { font-family: '新細明體'; src: local(Noto Serif CJK TC); }
+@font-face { font-family: 'PMingLiU'; src: local(Noto Serif CJK TC); }
+@font-face { font-family: '宋体'; src: local(Noto Serif CJK TC); }
+@font-face { font-family: 'medium-content-serif-font'; src: local(Noto Serif CJK TC); }
+@font-face { font-family: 'Georgia'; src: local(Noto Serif CJK TC); }
+@font-face { font-family: 'Cambria'; src: local(Noto Serif CJK TC); }
+@font-face { font-family: 'Times New Roman'; src: local(Noto Serif CJK TC); }
+@font-face { font-family: 'sans-serif'; src: local(Noto Serif CJK TC); } 
+/*無襯線*/
+@font-face { font-family: '微軟正黑體'; src: local(Taipei Sans TC Beta Regular); }
+@font-face { font-family: 'Verdana'; src: local(Taipei Sans TC Beta Regular); }
+@font-face { font-family: 'Arial'; src: local(Taipei Sans TC Beta Regular); } 
+@font-face { font-family: 'Helvetica'; src: local(Taipei Sans TC Beta Regular); } 
+@font-face { font-family: '微软雅黑'; src: local(Noto Sans CJK TC Regular); } 
+@font-face { font-family: 'Microsoft YaHei'; src: local(Noto Sans CJK TC Regular); } 
+/*等寬*/
+@font-face { font-family: 'Menlo'; src: local(Fira Code Regular); }
+@font-face { font-family: 'Monaco'; src: local(Fira Code Regular); }
+@font-face { font-family: 'Courier New'; src: local(Fira Code Regular); }
+@font-face { font-family: 'Courier'; src: local(Fira Code Regular); }
